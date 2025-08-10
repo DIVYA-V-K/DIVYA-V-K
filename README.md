@@ -15,12 +15,9 @@
 - **Tools**: Git, GitHub, Arduino, Raspberry Pi
 
 ## 📌 Featured Projects
-- [ClearFlow - Water Quality Monitoring](https://github.com/your-repo-link)
-- [BuyNest - AI-powered E-commerce](https://github.com/your-repo-link)
-- [AuditoryMax - Digital Audiometer](https://github.com/your-repo-link)
+- [Garuda - Drone Surveillance System](https://github.com/DIVYA-V-K/Garuda---Drone-Surveillance-System)
+- [BuyNest - AI-powered E-commerce](https://github.com/DIVYA-V-K/BuyNest)
 
-## 📊 GitHub Stats
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYA-V-K&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - LinkedIn: [Your Profile Link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/divya-v-1b19b0259/))
