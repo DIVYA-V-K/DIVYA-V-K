@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Divya 👋  
 
-<!--
-**DIVYA-V-K/DIVYA-V-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Computer Science Engineer | Machine Learning Enthusiast | Web Developer**  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final-year Computer Science student at KPRIET
+- 💻 Passionate about AI, IoT, and web development
+- 🌱 Currently learning RPA (Robotic Process Automation) and Japanese language
+- 🎯 Goal: Build tech solutions that make life easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: Python, Java, C
+- **Web**: HTML, CSS, JavaScript, PHP, MySQL
+- **ML & AI**: scikit-learn, Pandas, NumPy
+- **Tools**: Git, GitHub, Arduino, Raspberry Pi
+
+## 📌 Featured Projects
+- [ClearFlow - Water Quality Monitoring](https://github.com/your-repo-link)
+- [BuyNest - AI-powered E-commerce](https://github.com/your-repo-link)
+- [AuditoryMax - Digital Audiometer](https://github.com/your-repo-link)
+
+## 📊 GitHub Stats
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYA-V-K&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- LinkedIn: [Your Profile Link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/divya-v-1b19b0259/))
+- Email: your-divyavadivel@gmail.com
