@@ -89,11 +89,13 @@ Delivered personalized product recommendations using behavioral data insights.
 
 ---
 
-## AI Research & Development (Independent / Academic Initiative)
+## Machine Learning Intern — CodSoft
 
-* Built and deployed experimental AI systems focused on RAG and computer vision
-* Conducted performance evaluation and iterative system optimization
-* Designed modular AI pipelines for reproducibility and scalability
+* Implemented supervised machine learning models for structured datasets including classification and regression tasks
+* Performed data preprocessing, feature engineering, and model evaluation using Python (Pandas, NumPy, Scikit-learn)
+* Compared model performance using accuracy, precision, recall, and F1-score metrics
+* Improved model reliability through hyperparameter tuning and validation techniques
+* Documented experiments and maintained reproducible workflows for consistent results
 
 ---
 
